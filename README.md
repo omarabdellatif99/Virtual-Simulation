@@ -1,5 +1,5 @@
 # Training a Virtual JetRacer within Unreal Engine 5: Simulating Real-World Racing
- Track Lighting Conditions for Autonomous Navigation
+ Track Lighting Conditions for Autonomous Navigation ( Ongoing project )
 ## Overview
 
 This project focuses on creating a **high-fidelity, photorealistic simulation environment** within **Unreal Engine 5** to train and test autonomous systems, specifically **virtual JetRacers**, under varied and challenging lighting conditions. The simulation replicates real-world environments, from direct sunlight to low-light and night driving scenarios, allowing autonomous systems to be exposed to a wide range of lighting conditions. The research aims to explore the effectiveness of synthetic data generated from these simulations in training machine learning models and determining whether photorealistic simulations can replace physical testing in autonomous vehicle development.
