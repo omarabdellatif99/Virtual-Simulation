@@ -1,5 +1,5 @@
-# Photorealistic Simulation for Autonomous Systems in Unreal Engine 5
-
+# Training a Virtual JetRacer within Unreal Engine 5: Simulating Real-World Racing
+ Track Lighting Conditions for Autonomous Navigation
 ## Overview
 
 This project focuses on creating a **high-fidelity, photorealistic simulation environment** within **Unreal Engine 5** to train and test autonomous systems, specifically **virtual JetRacers**, under varied and challenging lighting conditions. The simulation replicates real-world environments, from direct sunlight to low-light and night driving scenarios, allowing autonomous systems to be exposed to a wide range of lighting conditions. The research aims to explore the effectiveness of synthetic data generated from these simulations in training machine learning models and determining whether photorealistic simulations can replace physical testing in autonomous vehicle development.
@@ -42,12 +42,6 @@ To run this project on your machine, follow the steps below:
 2. **Python 3.x**: Make sure Python is installed for running scripts and integrating machine learning models with Unreal Engine. Download Python from [python.org](https://www.python.org/downloads/).
 3. **PyCharm (optional)**: If you plan on modifying or training machine learning models for integration, PyCharm or another Python IDE can be helpful.
 
-### Installation
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/photorealistic-simulation.git
 
 
 <img width="704" alt="ue55" src="https://github.com/user-attachments/assets/a82473cb-271a-4f07-a083-cf1a844aaba9">
